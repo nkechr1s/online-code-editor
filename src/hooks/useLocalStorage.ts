@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 const LOCAL_STORAGE_KEY = "codepen-clone-";
 
-export const useLocalStorage = (key: string, initialValue: unknown) => {
+const useLocalStorage = (key: string, initialValue: unknown) => {
   const storageKey = LOCAL_STORAGE_KEY + key;
 
   const [value, setValue] = useState(() => {
