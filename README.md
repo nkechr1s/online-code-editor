@@ -12,8 +12,3 @@
 - `TypeScript`
 - `CodeMirror`
 
-## 💡 Improvement
-
-## 🎬 Video
-
-
