@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import { useLocalStorage } from "../../hooks";
-import { CodeEditor } from "../../components";
+import { useLocalStorage } from "src/hooks";
+import { CodeEditor } from "src/components";
 import "./App.css";
 
 const App = () => {

@@ -11,7 +11,7 @@ import { LuParentheses } from "react-icons/lu";
 import { FaStarOfLife } from "react-icons/fa6";
 import { RxSlash } from "react-icons/rx";
 import { useState } from "react";
-import { CodeEditorProps } from "../../types";
+import { CodeEditorProps } from "src/types";
 
 export const CodeEditor = ({
   language,
