@@ -7,8 +7,7 @@
 
 ## 📦 Built With
 
-- `CSS`
-- `React.js`
 - `TypeScript`
+- `React.js`
 - `CodeMirror`
 
