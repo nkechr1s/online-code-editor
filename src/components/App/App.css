@@ -6,3 +6,10 @@
   height: 50vh;
   display: flex;
 }
+
+@media (max-width: 768px) {
+  .pane {
+    flex-direction: column;
+    height: 80vh;
+  }
+}
