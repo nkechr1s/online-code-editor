@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const LOCAL_STORAGE_KEY = "codepen-clone-";
+const LOCAL_STORAGE_KEY = "online-code-editor-";
 
 const useLocalStorage = (key: string, initialValue: unknown) => {
   const storageKey = LOCAL_STORAGE_KEY + key;
